@@ -5,8 +5,6 @@
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Format](https://img.shields.io/badge/format-9%3A16%20Vertical-brightgreen.svg)]()
-[![Schedule](https://img.shields.io/badge/cadence-Daily%20%40%2011%3A11%20AM-orange.svg)]()
-
 ---
 
 ## 📌 Overview

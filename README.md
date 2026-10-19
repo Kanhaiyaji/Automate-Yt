@@ -13,7 +13,7 @@
 
 **Automate-Yt** is an end-to-end automation suite designed to transform raw, long-form competitive gaming broadcasts (e.g. ScarFall 2.0, BGMI, PUBG Mobile) into viral, high-retention **9:16 Full Screen (1080×1920) YouTube Shorts**.
 
-The pipeline automatically analyzes gameplay video, pinpoints combat sequences via computer vision and HUD telemetry, stitches together **3–4 high-intensity kills** into a seamless montage, adds dynamic HUD indicators, generates SEO-optimized metadata, and stages or schedules uploads to YouTube Studio daily at **11:11 AM**.
+The pipeline automatically analyzes gameplay video, pinpoints combat sequences via computer vision and HUD telemetry, stitches together **3–4 high-intensity kills** into a seamless montage, adds dynamic HUD indicators, and generates SEO-optimized metadata**.
 
 ---
 

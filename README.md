@@ -23,7 +23,6 @@ The pipeline automatically analyzes gameplay video, pinpoints combat sequences v
 - **👁️ Computer Vision & OCR HUD Telemetry**: Detects active combat by scanning the `Finish: X` counter, crosshair hitmarkers, and middle-screen elimination medals (`Double Finish`, `Super Duper Rock n' Roll`).
 - **📱 True 9:16 Full Screen Dynamic Cropping**: Seamlessly adapts 20:9 ultrawide and 16:9 source footage into 1080×1920 vertical format without black bars or blurry letterboxing.
 - **🏷️ Dynamic HUD Counter Badges**: Burns in sleek top badges (`KILL 1 & 2 - vs CLOUD9`, `KILL 3 - 6X LASER BEAM`, `FINAL 1v1 - CLUTCH WIN!`) to guide viewer attention.
-- **⏰ Daily 11:11 AM Automated Cadence**: Schedules daily uploads at peak viewer hours.
 - **💾 Auto Local Storage Management**: Automatically prunes rendered duplicate `.mp4` files from local storage post-upload to conserve hard disk space.
 
 ---

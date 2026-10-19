@@ -1,0 +1,91 @@
+# Video and Media Assets (Never commit raw video or large renders)
+*.mp4
+*.webm
+*.mkv
+*.avi
+*.mov
+*.ts
+*.flv
+
+# Raw media directories and temporary scratch spaces
+shorts/
+tools/
+youtube/
+
+# Temporary frame inspection caches
+**/frames/
+**/scans/
+**/inspect/
+**/crops/
+**/candidates/
+**/samples/
+**/ticks/
+**/overview_frames/
+**/video2_*/
+**/hotdrop_check/
+**/kills_gallery/
+**/multi_check/
+**/kyzn_inspect/
+**/c9_inspect/
+**/finish_ticks/
+**/merged_preview/
+**/kill_crops/
+**/kill_events/
+**/candidates_*/
+
+# Large raw datasets in root
+*.json
+!metadata/*.json
+!config/*.json
+!plugin.json
+!youtube-agent-skill/**/*.json
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE & OS
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & Debugging
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+test.txt

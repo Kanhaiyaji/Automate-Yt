@@ -1,0 +1,17 @@
+{
+  "name": "youtube-agent",
+  "displayName": "YouTube Agent - Channel Operations & Retention Studio",
+  "version": "1.0.0",
+  "description": "Twelve specialized skills, interactive learning coach, and 6 zero-dependency Python tools to run a YouTube channel: hook generation off 21 formulas, title & thumbnail packaging, transcript EDL, retention analysis, chapters, SEO, shorts cutter, comments, planning, and outlier virality.",
+  "author": { "name": "Jake Schincariol", "url": "https://opusjake.ai" },
+  "homepage": "https://github.com/Jakeschincariol/youtube-agent-skill",
+  "repository": "https://github.com/Jakeschincariol/youtube-agent-skill",
+  "license": "MIT",
+  "keywords": ["youtube", "shorts", "retention", "thumbnails", "titles", "content", "video", "seo", "scripting"],
+  "suggestedPrompts": [
+    "Write a YouTube script with scored hook options for my next video",
+    "Lint my title and thumbnail pairing for mobile and desktop feeds",
+    "Analyze audience retention CSV and find where viewers dropped off",
+    "Teach me the 21 YouTube hook formulas and test my ideas with /yt-learn"
+  ]
+}

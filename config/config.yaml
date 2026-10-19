@@ -1,0 +1,34 @@
+# Automate-Yt Global Configuration
+
+channel:
+  name: "Jhaji OG"
+  handle: "@jhajiog"
+  game: "ScarFall 2.0"
+  secondary_game: "BGMI"
+  links:
+    kick: "https://kick.com/jhajiog"
+    discord: "https://discord.gg/uVebERX"
+    instagram: "https://instagram.com/oddsocean.in"
+
+scheduling:
+  target_time: "11:11 AM"
+  timezone: "Asia/Kolkata"
+  daily_cadence: 1
+
+video_format:
+  aspect_ratio: "9:16"
+  resolution: [1080, 1920]
+  fps: 30
+  codec_video: "libx264"
+  crf: 19
+  preset: "veryfast"
+  codec_audio: "aac"
+  audio_bitrate: "192k"
+  crop_formula: "crop=ih*9/16:ih:(iw-ow)/2:0,scale=1080:1920"
+
+multi_kill_criteria:
+  min_kills: 3
+  max_kills: 4
+  max_segment_duration_seconds: 10
+  min_segment_duration_seconds: 4
+  max_short_duration_seconds: 45

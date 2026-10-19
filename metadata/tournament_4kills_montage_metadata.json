@@ -1,0 +1,44 @@
+{
+  "title": "4 Kills Multi-Squad Wipe Tournament Frags | Jhaji OG, Clutch Shorts #shorts #scarfall2 #gaming",
+  "video_id": "qkZLhnLwUuY",
+  "youtube_url": "https://youtube.com/shorts/qkZLhnLwUuY",
+  "scheduled_date": "2026-10-24",
+  "scheduled_time": "11:11 AM",
+  "timezone": "IST",
+  "duration_seconds": 33.82,
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "kills_count": 4,
+  "kills_breakdown": [
+    {
+      "segment": 1,
+      "kills": "Kill 1 & 2",
+      "target": "Cloud9 Esports (C9x-MagicMAX & C9x-LUFIROS)",
+      "time_in_short": "0:00 - 0:07",
+      "source_time": "01:09.5 - 01:16.8"
+    },
+    {
+      "segment": 2,
+      "kills": "Kill 3",
+      "target": "TSFxGNS*UDDIT (80m 6x Scope Laser)",
+      "time_in_short": "0:07 - 0:16",
+      "source_time": "02:35.0 - 02:43.8"
+    },
+    {
+      "segment": 3,
+      "kills": "Kill 4",
+      "target": "KyZN Esports (KyZN*akshayOP)",
+      "time_in_short": "0:16 - 0:24",
+      "source_time": "03:07.0 - 03:15.5"
+    },
+    {
+      "segment": 4,
+      "kills": "Final 1v1 Clutch",
+      "target": "TxL*FLaSH (Match Winning Duel)",
+      "time_in_short": "0:24 - 0:33",
+      "source_time": "06:14.0 - 06:23.2"
+    }
+  ],
+  "video_path": "shorts/tournament_4kills_montage_916.mp4",
+  "staged_path": "C:\\Users\\JHAJI\\AppData\\Local\\Temp\\tournament_4kills_montage_916.mp4"
+}

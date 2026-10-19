@@ -116,16 +116,6 @@ python scripts/run_daily_pipeline.py --source path/to/gameplay.mp4 --date 2026-1
 
 ---
 
-## 📺 Production Queue (@jhajiog)
-
-| Date & Time | Title | Format | Verified URL |
-| :--- | :--- | :--- | :--- |
-| **Oct 20 @ 11:11 AM** | 4 Kills Squad Wipe Tournament Frags | 9:16 | [Watch Short](https://youtube.com/shorts/qR3Mvit6WFg) |
-| **Oct 21 @ 11:11 AM** | Final Circle 1v2 Tournament Frags | 9:16 | [Watch Short](https://youtube.com/shorts/rHPkvG5JBSI) |
-| **Oct 22 @ 11:11 AM** | 1v3 Room Clutch Tournament Frags | 9:16 | [Watch Short](https://youtube.com/shorts/fa-PWnadahg) |
-| **Oct 23 @ 11:11 AM** | KyZN Esports Rock Clash Tournament Frags | 9:16 | [Watch Short](https://youtube.com/shorts/rKE9AtHNei4) |
-| **Oct 24 @ 11:11 AM** | 4 Kills Multi-Squad Wipe Tournament Frags | 9:16 | [Watch Short](https://youtube.com/shorts/qkZLhnLwUuY) |
-
 ---
 
 ## 📜 License
